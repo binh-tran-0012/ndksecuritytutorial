@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NDKSecurityTutorial</string>
+    <string name="app_name_dev">NDKSecurityTutorialDEV</string>
+    <string name="API_key">22310678d9a751d811f41c6c33a78db368</string>
+    <string name="google_maps_key">BI12A8Jz2ni7tmkUhXwERO0FZON6uqyaihIQU</string>
+</resources>
